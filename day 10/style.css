@@ -40,7 +40,7 @@ box-shadow: 10px 10px 5px grey;
 .inner-shadow{
 
   padding: 20px;
- background: lightsalmon;
+ background: rgb(219, 71, 12);
   box-shadow: 10px 10px 5px blue;
   color: black;
 }

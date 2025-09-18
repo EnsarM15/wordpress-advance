@@ -30,8 +30,8 @@
   </div>
 <?php endif; ?>
 
-<div class="box-shadow"></div>
-<div class="inner-shadow"></div>
+<div class="box-shadow"> box-shadow</div>
+<div class="inner-shadow">inner-shadow</div>
 
 <?php get_footer(); ?>
 
