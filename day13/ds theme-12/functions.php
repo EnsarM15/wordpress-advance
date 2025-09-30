@@ -173,30 +173,3 @@ function create_posttype(){
     )
   )
 }
-function register_taxomony_movie_genres()
-{
-  $labels =[
-    'name' => _x('movie genres', 'taxomony general name'),
-    'singular_name' => _x('movie', 'taxomony singular name'),
-    'singular_name' => _('movie', 'taxomony singular name'),
-    'search_items' => __('search movie genre'),
-    'parent-item' => __('parent movie genre'),
-    'parent-item_colon' => __('parent movie genre'),
-    'edit_item' => __('edit movie genre'),
-    'update_item' => __('update movie genre'),
-    'add_new_item' => __('add new movie genre'),
-    'new_item_name' => __('new  movie genre')
-    'menu_name'   => __('movie genre')
-  ];
-
-  $args =[
-    'hierarchical'=>true,
-    'labels' =>$labels,
-    'show_ui' =>true,
-    'show_admin_colum' => true,
-    'query_var' => true,
-    'rewrite'=> ['slug'=> | 'movie_genre'],
-
-  ]
-
-}

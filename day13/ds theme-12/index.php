@@ -40,6 +40,4 @@
 <div class="shadow-box">Box with shadow.</div>
 <div class="inner-shadow">Box with inner shadow.</div>
 
-
-
 <?php get_footer(); ?>
