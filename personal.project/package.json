@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "css": "sass --no-source-map sass/style.scss style.css",
-    "watch": "sass --no-source-map -w sass/style.scss style.css"
-  }
-}

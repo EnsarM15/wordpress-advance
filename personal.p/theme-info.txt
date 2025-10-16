@@ -1,0 +1,93 @@
+AutoDealer Pro WordPress Theme
+===============================
+
+🚗 Professional Car Dealership WordPress Theme
+
+Created by: MiniMax Agent
+Version: 1.0
+Date: 2025-10-17
+
+WHAT'S INCLUDED:
+================
+
+Core Theme Files:
+- style.css (Main stylesheet with modern automotive styling)
+- index.php (Homepage with hero section, search, and featured cars)
+- functions.php (Theme functions, custom post types, taxonomies)
+- header.php (Site header with navigation)
+- footer.php (Site footer with contact info)
+- single-car.php (Individual car detail pages)
+- archive-car.php (Car listing/archive page)
+
+Template Parts:
+- template-parts/car-card.php (Reusable car card component)
+
+Additional Pages:
+- page-compare.php (Car comparison functionality)
+- page-contact.php (Contact page template)
+
+Assets:
+- js/script.js (JavaScript for enhanced functionality)
+- README.md (Comprehensive documentation)
+
+KEY FEATURES:
+=============
+
+✅ Custom Car Post Type with detailed specifications
+✅ Advanced search and filtering system
+✅ Responsive design for all devices
+✅ Car taxonomies (Make, Model, Year, Condition)
+✅ Professional styling optimized for automotive sales
+✅ Contact forms and inquiry systems
+✅ Car comparison functionality
+✅ SEO-optimized structure
+✅ WordPress Customizer integration
+✅ Mobile-friendly navigation
+
+CUSTOM FIELDS:
+==============
+
+Each car listing includes:
+- Price
+- Mileage
+- Engine specifications
+- Transmission type
+- Fuel type
+- Exterior color
+- Interior color
+- VIN number
+- Features list
+
+TAXONOMIES:
+===========
+
+- Car Make (Toyota, Honda, Ford, etc.)
+- Car Model (Camry, Civic, F-150, etc.)
+- Car Year (2020, 2021, 2022, etc.)
+- Car Condition (New, Used, Certified Pre-Owned)
+
+INSTALLATION STEPS:
+==================
+
+1. Upload theme files to /wp-content/themes/autodealer-pro/
+2. Activate the theme in WordPress admin
+3. Go to Settings > Permalinks and save (to refresh URL structure)
+4. Start adding cars via the Cars menu in admin
+5. Create navigation menus under Appearance > Menus
+6. Customize settings under Appearance > Customize
+
+RECOMMENDED PLUGINS:
+===================
+
+- Contact Form 7 (for advanced contact forms)
+- Yoast SEO (for search engine optimization)
+- Advanced Custom Fields (for additional custom fields)
+
+BROWSER SUPPORT:
+===============
+
+- Chrome, Firefox, Safari, Edge (latest versions)
+- Internet Explorer 11+
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+This theme provides everything needed for a professional automotive sales website!
